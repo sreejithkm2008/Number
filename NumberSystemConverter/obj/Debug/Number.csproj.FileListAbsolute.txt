@@ -1,0 +1,6 @@
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumberSystemConverter.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\NumberSystemConverter.pdb
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\Number.csproj.AssemblyReference.cache
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\Number.csproj.CoreCompileInputs.cache
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumberSystemConverter.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\NumberSystemConverter.pdb

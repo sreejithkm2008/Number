@@ -1,0 +1,10 @@
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter_UnitTests.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter_UnitTests.pdb
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\NumberSystemConverter.pdb
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\Number_UnitTests.csproj.AssemblyReference.cache
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\Number_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\Number_UnitTests.csproj.CopyComplete
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.dll
+C:\Users\sreej\Downloads\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\NumberSystemConverter_UnitTests.pdb
